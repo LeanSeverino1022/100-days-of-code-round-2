@@ -1,0 +1,30 @@
+// notes
+
+// Benefit of using Typescript:
+
+/*
+1. strong typing
+2. Object-oriented features
+3. compile-time errors
+4. tooling
+ */
+
+ // typescript - statically compiled language. for big projects, make sw robust. benefit is ts offers the ability to add static types to your Javascript code. Javascript is a dynamically typed language, which is one of its best or one of its worst features, depending on who you ask. IDE support. Browser compatibility with its transpiler which means you can use latest js features es6 for example
+/* 
+ any valid js code is also valid typescript code
+
+ ts -> transpile -> js 
+
+ install typescript - npm install -g typescript
+ tsc --version
+
+ tsc main.ts
+  
+ You can use TypeScript even if there are errors in your code. But in this case, TypeScript is warning that your code will likely not run as expected.
+
+ var vs let - already  know this
+
+aside  
+When is best to use ts
+1. if you prefer compile time type checking 
+if you just want to make use of es6 features, there is babel */
