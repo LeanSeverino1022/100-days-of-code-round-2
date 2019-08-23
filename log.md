@@ -3,6 +3,19 @@
 # 100 Days Of Code - Log
 
 
+
+### :white_check_mark: Day 3 | Get Started with Typescript & upgrade understanding of MVC architecture
+## Aug 22, 2019
+
+**Today's Progress**: 
+- I learned about Typescript today and now I understand what makes it a great. New stuff I learned: Type Assertions, Interfacesm, Access modifiers, Access modifiers in Constructor Parameters, Properties. 
+
+I understand MVC more visually now with Brad Traversy's video :  https://youtu.be/pCvZtjoRq1I 
+
+:clock1: more than 5 hours
+
+**Thoughts**: I'm happy I learned a lot today but I didn't work on any project for today. But still I think I gained a lot important learning today.
+
 ### :white_check_mark: Day 2 | portfolio site update and learn animation performance
 ## Aug 21, 2019
 
