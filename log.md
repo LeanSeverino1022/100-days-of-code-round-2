@@ -2,6 +2,13 @@
 
 # 100 Days Of Code - Log
 
+### :white_check_mark: Day 6| portfolio update and publish using Netlify
+
+Portfolio update - there is no hover on mobile devices by default so I had to fix issues with my overlay buttons getting clicked right away rather than showing the overlay first. Also got started with 
+@Netlify
+ to host my site https://leandroseverino.netlify.com 😀
+
+ **Thoughts**: Maybe I should start looking for clients that needs static websites. Checkout netlify cms.
 
 
 ### :white_check_mark: Day 5 | worked on my portfolio website again
