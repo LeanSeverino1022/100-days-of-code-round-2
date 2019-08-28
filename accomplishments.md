@@ -8,6 +8,9 @@ top 3 next goals;
 2. Object creation playlist with funfunfunctions
 3. learn React
 
+others:
+ - YDKJS book 3 
+
 
 ### :white_check_mark: Learn Typescript basics
  
