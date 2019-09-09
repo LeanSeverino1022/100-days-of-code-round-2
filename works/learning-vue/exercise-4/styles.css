@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+#effect {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: red;
+  width: 200px !important;
+}
+
+.shrink {
+  background-color: gray;
+  width: 50px !important;
+}
+
+.important {
+  color: red;
+}
+
+.bordered {
+  border: green 2px solid;
+  margin: 10px 0;
+}
+
+
+.sample-bg-1 {
+  background: yellow;
+}
+
+.sample-bg-2 {
+  background: orange;
+}
+
+.red {
+  color: red;
+}
+
+.violet {
+  color: violet;
+}
+
+.progress-bar {
+  display: inline-block;
+  background: rgb(2, 179, 105);
+  color: #fff;
+  font-size: 20px;
+  padding: 10px;
+}
