@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+  <h1>Time to Practice - Styling</h1>
   <div id="exercise">
     <!-- 1) Start the Effect with the Button. The Effect should alternate the "highlight" or "shrink" class on each new setInterval tick (attach respective class to the div with id "effect" below) -->
     <div>
@@ -23,14 +23,14 @@
     <!-- 3) Let the user enter a class (create some example classes) and attach it -->
     <div>
       <input type="text" v-model="sampleClass">
-      <div :class="sampleClass">Samle class tester</div>
+      <div :class="sampleClass">Sample class tester</div>
     </div>
     <br>
     <!-- 4) Let the user enter a class and enter true/ false for another class (create some example classes) and attach the classes -->
     <div>
       <input type="text" v-model="fontClassName">
-      <input type="text" v-model="allowFontColor">
-      <div :class="[fontClassName, {bordered: allowFontColor}]">test me baby!</div>
+      <input type="text" v-model="isBordered">
+      <div :class="[fontClassName, {bordered: isBordered}]">test me baby!</div>
     </div>
     <!-- 5) Repeat 3) but now with values for styles (instead of class names). Attach the respective styles.  -->
     <div>
@@ -58,7 +58,7 @@
         bordered: 'bordered',
         sampleClass: 'sample-bg-1',        
         fontClassName: '',
-        allowFontColor: true,
+        isBordered: true,
         styleObject: {},
         progress: 0,
       
