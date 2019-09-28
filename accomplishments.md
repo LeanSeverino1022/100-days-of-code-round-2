@@ -6,7 +6,7 @@ top 3 next goals;
 
 1. portfolio website - see trello
 2. Object creation playlist with funfunfunctions
-3. learn React
+3. learn Vue -finish Udemy Course
 
 others:
  - YDKJS book 3 
