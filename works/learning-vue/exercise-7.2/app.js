@@ -1,5 +1,5 @@
 //local registration https://vuejs.org/v2/guide/components-registration.html#Local-Registration
-//here we use component of 
+//difference of this from exercise 7.1 is that this shows local registration
 
 
 var cmp = {

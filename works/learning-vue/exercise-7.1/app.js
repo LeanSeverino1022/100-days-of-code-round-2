@@ -1,9 +1,12 @@
 
 // var data = {
-//     status: 'Critical
+//     status: 'Critical',
 // }
 
 Vue.component('my-cmp', {
+  // data: function(){
+  //   return data
+  // },
   data: function(){
     return {
       status: 'Critical'
