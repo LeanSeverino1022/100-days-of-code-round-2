@@ -10,8 +10,6 @@ export const eventBus = new Vue({
 
 });
 
-window.eb = eventBus;
-
 new Vue({
   el: '#app',
   render: h => h(App)

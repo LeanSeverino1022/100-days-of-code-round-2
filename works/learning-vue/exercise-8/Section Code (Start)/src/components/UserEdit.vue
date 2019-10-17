@@ -23,8 +23,9 @@
                 //commented line below to try out using event bus
                 // this.$emit( "ageWasEdited", this.userAge );
 
-                //communicate with userdetail directly without needing to pass through parent
-                eventBus.$emit('ageWasEdited', this.userAge);
+                //communicate with userdetail directly without needing to pass through parent              
+
+                eventBus.changeAge(this.userAge);
             }
         }
     }
