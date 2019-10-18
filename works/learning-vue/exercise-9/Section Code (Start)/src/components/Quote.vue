@@ -1,5 +1,8 @@
 <template>
-    <div><p> A Wonderful Quote!</p></div>
+    <div>
+        <slot></slot>
+    </div>
+ 
 </template>
 
 <script>
@@ -9,7 +12,7 @@
 <style scoped>
     div {
         border: 1px solid #ccc; 
-        box-shadow: 1px 1px 52px black;
+        box-shadow: 1px 1px 3px black;
         padding: 30px;
         margin: 30px auto;
         text-align: center;
